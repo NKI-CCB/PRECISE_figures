@@ -7,8 +7,12 @@ __pycache__/
 *.so
 
 # Data elements
-data/
-output/
+data/cell_line
+data/tumor
+data/pdx
+data/gene_status.csv
+output/pred/performance/
+
 
 
 # Distribution / packaging
